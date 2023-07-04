@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">Back-End developer</h3>       
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif"> 
+<img align="right" alt="coding" width="400"controls autoplay src="https://i.pinimg.com/originals/d6/af/b6/d6afb6c5702631ed7e304d2ac40fb4f2.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mody19765&label=Profile%20views&color=0e75b6&style=flat" alt="mody19765" /> </p>
 
 # 💫 About Me:
