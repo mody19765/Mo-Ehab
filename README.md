@@ -8,7 +8,7 @@
 </video>
 
 # 💫 About Me:
-- 🌱 I'm trying to improve myself by solving more problems on Codeforces, reading docs,and more 💪 <br><br>- 💬 Ask me about javascript,Node js <br><br>- ⚡ Fun fact I love to anime 
+🌱 I'm trying to improve myself by solving more problems on Codeforces, reading docs,and more  <br><br>- 💬 Ask me about javascript,Node js <br><br>- ⚡ Fun fact I love to anime 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mod19#8842) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamedehabom) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mody_19765/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ehab-398042201/) 
